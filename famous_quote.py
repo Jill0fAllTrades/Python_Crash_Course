@@ -1,0 +1,1 @@
+print("Robert Heinlein once said, 'Specialization is for insects.'")
